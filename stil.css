@@ -1,0 +1,58 @@
+body {
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-image: url("https://www.publicdomainpictures.net/pictures/130000/velka/parchment-page-1441804567347.jpg");
+   height: 100%;
+}
+.rubrik {
+   font-weight: bold;
+}
+.kursiv {
+   font-style: italic;
+}
+#ord {
+   font-size: 10vw;
+   font-weight: bold;
+}
+.overrubrik {
+   font-size: 8vw;
+   font-style: italic;
+}
+
+@media only screen and (min-width: 700px) {
+   body {
+      background-size: 25vw 50vh;
+      height: 100%;
+      background-repeat: repeat;
+      background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRtOiYGYBAHYVfyZgW9nb00XOffjkHIR2uu7E2B_3iZy5D9VG6w&usqp=CAU");
+   }
+   .sida {
+      background-image: url("https://www.publicdomainpictures.net/pictures/130000/velka/parchment-page-1441804567347.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      border-color: black;
+      border-style: solid;
+      border-width: 2px;
+      border-radius: 1px;
+      width: 45vw;
+      height: 95vh;
+   }
+   .hoger {
+      transform: translateX(45vw) translateY(-95.75vh);
+   }
+   .bok {
+      margin: auto;
+      width: 90vw;
+   }
+   #ord {
+      font-size: 5vw;
+      font-weight: bold;
+   }
+   .overrubrik {
+      font-size: 4vw;
+      font-style: italic;
+   }
+   .utfyllnad {
+      height: 35%;
+   }
+}
