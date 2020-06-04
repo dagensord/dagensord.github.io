@@ -245,6 +245,116 @@
          "betydelse": "Långsam och lugn, om person",
          "exempelmening": "Den sävliga chefen sade till sin medarbetare: \"Vi ska inte dra några förhastade slutsatser.\"",
          "etymologi": "Ordet kommer från fornsvenskan."
+      },
+      {
+         "namn": "urbota",
+         "betydelse": "Väldigt, om någonting negativt",
+         "exempelmening": "Att käfta upp sig mot rektorn är urbota korkat!",
+         "etymologi": "Ordet kommer från fornsvenskan, med den ursprungliga betydelsen \"som kräver ett högre straff än böter\"."
+      },
+      {
+         "namn": "töva",
+         "betydelse": "Dröja",
+         "exempelmening": "Varför töver du så länge?",
+         "etymologi": "Ordet kommer från fornsvenskan, antagligen inlånat från lågtyskan."
+      },
+      {
+         "namn": "överförfriskad",
+         "betydelse": "Berusad",
+         "exempelmening": "Den överförfriskade föraren fråntogs sitt körkort.",
+         "etymologi": "Ordet bildades som en förskönande omskrivning."
+      },
+      {
+         "namn": "törhända",
+         "betydelse": "Kanske,
+         "exempelmening": "Törhända kommer hen bara lite sent, så vi väntar ett tag.",
+         "etymologi": "Ordet kommer från den fornsvenskan."
+      },
+      {
+         "namn": "tertial",
+         "betydelse": "En period på fyra månader",
+         "exempelmening": "Företagets aktie har det senaste tertialet tappat drastiskt i värde.",
+         "etymologi": "Ordet kommer från latinets \"tertial\", vilket betyder \"tredjedel\"."
+      },
+      {
+         "namn": "fägna",
+         "betydelse": "Glädja",
+         "exempelmening": "Det fägnar mig att ni gillar ert nya hus.",
+         "etymologi": "Ordet kommer från fornsvenskan."
+      },
+      {
+         "namn": "altererad",
+         "betydelse": "Förvirrad och upprörd",
+         "exempelmening": "När jag kom tillbaka efter semestern fick jag reda på att jag hade fått sparken, och då blev jag så himla altererad.",
+         "etymologi": "Ordet är bildat till latinets \"alterare\", \"ändra\"."
+      },
+      {
+         "namn": "opulent",
+         "betydelse": "Överflödande",
+         "exempelmening": "Boken kännetecknas av opulenta källor.",
+         "etymologi": "Ordet är inlånat från latin."
+      },
+      {
+         "namn": "parant",
+         "betydelse": "Stilig och välvårdad",
+         "exempelmening": "Den modemedvetna och paranta chefen gjorde en grandios entré på morgonmötet.",
+         "etymologi": "Ordet är inlånat från franska."
+      },
+      {
+         "namn": "elokvens",
+         "betydelse": "Vältalighet",
+         "exempelmening": "VD:ns elokvens har tagit henom till den åtråvärda position som hen just nu innehar.",
+         "etymologi": "Ordet är inlånat från latin."
+      },
+      {
+         "namn": "quantum satis",
+         "betydelse": "Tillräcklig mängd",
+         "exempelmening": "Du behöver inte hämta fler papper, de som jag har här utgör ett quantum satis.",
+         "etymologi": "Ordet är inlånat från latin."
+      },
+      {
+         "namn": "sans façon",
+         "betydelse": "Helt enkelt",
+         "exempelmening": "Det är sans façon en bättre lösning på problemet.",
+         "etymologi": "Ordet är inlånat från franska."
+      },
+      {
+         "namn": "partout",
+         "betydelse": "Till varje pris",
+         "exempelmening": "Vi måste partout överskyla den här skandalen.",
+         "etymologi": "Ordet är inlånat från franska."
+      },
+      {
+         "namn": "echaufferad",
+         "betydelse": "Varm och röd i ansiktet",
+         "exempelmening": "Jag är så blyg att jag blir echaufferad bara av att någon nämner mitt namn.",
+         "etymologi": "Ordet är inlånat från franska."
+      },
+      {
+         "namn": "modus operandi",
+         "betydelse": "Tillvägagångssätt vid brott",
+         "exempelmening": "Att klättra in genom fösntret är tjuvligans vanliga modus operandi.",
+         "etymologi": "Ordet är inlånat från latin."
+      },
+      {
+         "namn": "primus inter pares",
+         "betydelse": "Den främsta personen bland likar",
+         "exempelmening": "Chefen för NASA är primus inter pares bland rymdforskare.",
+         "etymologi": "Ordet är inlånat från latin.",
+         "lank": "https://svenska.se/tre/?sok=primus&pz=1"
+      },
+      {
+         "namn": "primus motor",
+         "betydelse": "Den som driver ett projekt",
+         "exempelmening": "Eftersom de andra inte ville arbeta blev jag gruppens primus motor.",
+         "etymologi": "Ordet är inlånat från latin.",
+         "lank": "https://svenska.se/tre/?sok=primus&pz=1"
+      },
+      {
+         "namn": "a priori",
+         "betydelse": "Utan vidare (eller fackspråkligt: oberoende av särskild undersökning)",
+         "exempelmening": "Vi kan inte a priori säga att det kommer att fungera.",
+         "etymologi": "Ordet är inlånat från latin."
       }
    ]
 }
