@@ -277,6 +277,12 @@
          "etymologi": "Ordet kommer från latinets \"tertial\", vilket betyder \"tredjedel\"."
       },
       {
+         "namn": "understundom",
+         "betydelse": "Ibland",
+         "exempelmening": "Understundom har jag svårt att sova.",
+         "etymologi": "Ordet kommer från fornsvenska, ursprungligen inlånat från lågtyska."
+      },
+      {
          "namn": "fägna",
          "betydelse": "Glädja",
          "exempelmening": "Det fägnar mig att ni gillar ert nya hus.",
@@ -352,9 +358,75 @@
       },
       {
          "namn": "a priori",
-         "betydelse": "Utan vidare (eller fackspråkligt: oberoende av särskild undersökning)",
-         "exempelmening": "Vi kan inte a priori säga att det kommer att fungera.",
+         "betydelse": "Som kan bevisas utan speciell undersökning, utan endast med satsens innehåll. Vardagligt även mer allmänt: utan vidare",
+         "exempelmening": "Att alla svenskar är människor är sant a priori. (fackspråkligt)<br>Vi kan inte a priori säga att det kommer att fungera. (vardagligt)",
          "etymologi": "Ordet är inlånat från latin."
+      },
+      {
+         "namn": "a posteriori",
+         "betydelse": "Som kräver undersökning för att bevisa.",
+         "exempelmening": "Att alla svenskar besitter grundläggande digitala kunskaper kan endast bevisas a posteriori, efter en undersökning.",
+         "etymologi": "Ordet är inlånat från latin."
+      },
+      {
+         "namn": "skärmytsling",
+         "betydelse": "Mindre strid",
+         "exempelmening": "De två kompisarna straffades inte för bråket, då det endast var en liten skärmytsling.",
+         "etymologi": "Ordet är inlånat från lågtyska."
+      },
+      {
+         "namn": "njugg",
+         "betydelse": "Lite väl snål",
+         "exempelmening": "Kommunen är lite njugg med sina bidrag, de ska bara spara och spara!",
+         "etymologi": "Ordet kommer från äldre svenska, antagligen fanns det redan i fornsvenska."
+      },
+      {
+         "namn": "ärkenöt",
+         "betydelse": "Dum och trögtänkt person (skämtsamt)",
+         "exempelmening": "Hahaha, en sådan ärkenöt du är!",
+         "etymologi": "Ordet kommer från äldre svenska."
+      },
+      {
+         "namn": "jurisprudens",
+         "betydelse": "Rättsvetenskap",
+         "exempelmening": "Som domare är det viktigt att kunna sin jurisprudens.",
+         "etymologi": "Ordet är inlånat från latin."
+      },
+      {
+         "namn": "tillfyllest",
+         "betydelse": "Tillräckligt",
+         "exempelmening": "Jag önskar att jag kunde starta utbildningen i språkhistoria, men endast fyra elever är inte tillfyllest.",
+         "etymologi": "Ordet kommer från äldre svenska."
+      },
+      {
+         "namn": "tillförne",
+         "betydelse": "Förr, i negerande uttryck",
+         "exempelmening": "Aldrig tillförne har jag bevittnat någonting så mäkta fåvitskt!",
+         "etymologi": "Ordet kommer från fornsvenska, som i sin tur är ett lån från lågtyska."
+      },
+      {
+         "namn": "tvivelsutan",
+         "betydelse": "Utan tvivel",
+         "exempelmening": "Ingemar Stenmark kommer tvivelsutan att vinna tävlingen.",
+         "etymologi": "Ordet kommer från äldre svenska."
+      },
+      {
+         "namn": "stundom",
+         "betydelse": "Ibland",
+         "exempelmening": "Datorn fungerar för det mesta bra, men har man för mycket öppet samtidigt så kraschar den stundom.",
+         "etymologi": "Ordet kommer från fornsvenska."
+      },
+      {
+         "namn": "städse",
+         "betydelse": "Alltid",
+         "exempelmening": "Jag är städse sjuk, gnällde hen",
+         "etymologi": "Ordet kommer från fornsvenska, ursprungligen inlånat från lågtyska."
+      },
+      {
+         "namn": "dymedelst",
+         "betydelse": "På det här sättet",
+         "exempelmening": "Dymedelst gör man för att laga sin mobil: först tar man av skalet, sedan så...",
+         "etymologi": "Ordet kommer från yngre nysvenska."
       }
    ]
 }
