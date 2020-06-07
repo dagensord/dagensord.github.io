@@ -24,7 +24,7 @@
 			"namn": "oförtydbar",
 			"betydelse": "Omisskännlig",
 			"exempelmening": "I hens ansikte kan man skönja en oförtydbar glädje över vinsten.",
-			"etymologi": "Ordet är inlånat från franskan."
+			"etymologi": "Ordet är inlånat från tyska."
 		},
 		{
 			"namn": "hen",
@@ -450,6 +450,78 @@
 			"betydelse": "Vem än (som)",
 			"exempelmening": "Eho som kommer näst blir den tusende kunden och får ett presentkort.",
 			"etymologi": "Ordet kommer från fornsvenska."
-		}
+		},
+		{
+			"namn": "enär",
+			"betydelse": "Eftersom",
+			"exempelmening": "Jag kan inte komma enär jag är sjuk.",
+			"etymologi": "Ordet kommer från yngre nysvenska."
+		},
+		{
+			"namn": "emedan",
+			"betydelse": "Eftersom",
+			"exempelmening": "Emedan mamma inte har kommit hem får du inte gå hem till mig.",
+			"etymologi": "Ordet kommer från fornsvenska."
+		},
+		{
+			"namn": "förty",
+			"betydelse": "Därför",
+			"exempelmening": "Jag har inte slagit in presenten förty att jag är en miljömedveten person.",
+			"etymologi": "Ordet kommer från fornsvenska."
+		},
+		{
+			"namn": "ity",
+			"betydelse": "Därför",
+			"exempelmening": "Havsnivån höjs ity att isarna smälter när det blir varmare.",
+			"etymologi": "Ordet kommer från fornsvenska."
+		},
+		{
+			"namn": "åstunda",
+			"betydelse": "Vilja ha någonting (abstrakt)",
+			"exempelmening": "Alla människor åstundar lycka och fröjd.",
+			"etymologi": "Ordet kommer från fornsvenska."
+		},
+		{
+			"namn": "härvidlag",
+			"betydelse": "I det här avseendet",
+			"exempelmening": "Planen skulle kunna gå fel, härvidlag har Sanna rätt.",
+			"etymologi": "Ordet kommer från yngre nysvenska."
+		},
+		{
+			"namn": "därvidlag",
+			"betydelse": "I det avseendet",
+			"exempelmening": "Bertil har rätt därvidlag att planen skulle kunna gå i stöpet, men det är ytterligt osannolikt.",
+			"etymologi": "Ordet kommer från yngre nysvenska."
+		},
+		{
+			"namn": "alldenstund",
+			"betydelse": "Eftersom",
+			"exempelmening": "Vissa detaljer om orden här på sajten kan vara fel alldenstund vi skrev om dem i all hast.",
+			"etymologi": "Ordet är antagligen ett lågtyskt översättningslån."
+		},
+		{
+			"namn": "ehuru",
+			"betydelse": "Fastän",
+			"exempelmening": "Ehuru trött kom jag till festen.",
+			"etymologi": "Ordet kommer från fornsvenska."
+		},
+		{
+			"namn": "oaktat",
+			"betydelse": "Fastän eller trots",
+			"exempelmening": "Oaktat att det är så varmt sover jag med täcket på.<br>Oaktat värmen sover jag med täcket på.",
+			"etymologi": "Ordet är inlånat från tyska."
+		},
+		{
+			"namn": "änskönt",
+			"betydelse": "Fastän",
+			"exempelmening": "Jag hoppas kunna komma änskönt jag måste gå i skolan.",
+			"etymologi": "Ordet är inlånat från tyska."
+		},
+		{
+			"namn": "illfänas",
+			"betydelse": "Bråka högljutt",
+			"exempelmening": "Syskonen illfänas konstant, men stänger jag dörren så hör jag dem inte.",
+			"etymologi": "Ordet kommer från fornsvenska."
+		},
 	]
 }
