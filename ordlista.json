@@ -128,7 +128,7 @@
 			"namn": "stävja",
 			"betydelse": "Förhindra",
 			"exempelmening": "Att stävja drogmissbruk är viktigt även för unga barn.",
-			"etymologi": "Ordet har antagligen kommit till svenska från isländska, via norska.."
+			"etymologi": "Ordet har antagligen kommit till svenska från isländska, via norska."
 		},
 		{
 			"namn": "bedarra",
@@ -619,7 +619,61 @@
 			"betydelse": "(Nedtonad) lila, åt det blå hållet",
 			"exempelmening": "Violer har violetta blommor.",
 			"etymologi": "Ordet kommer från franska."
+		},
+		{
+			"namn": "vederhäftig",
+			"betydelse": "Saklig och sanningsenlig",
+			"exempelmening": "När man håller debatt måste man ha vederhäftiga argument.",
+			"etymologi": "Ordet kommer från forndanska via fornsvenska."
+		},
+		{
+			"namn": "vederlägga",
+			"betydelse": "Bevisa att något är felaktigt",
+			"exempelmening": "Att vederlägga statsministerns argument visade sig vara lätt.",
+			"etymologi": "Ordet är inlånat från tyska."
+		},
+		{
+			"namn": "gendriva",
+			"betydelse": "Bevisa att något är felaktigt",
+			"exempelmening": "Jag tyckte att det andra laget gendriva era argument, så jag tror att de vann debatten.",
+			"etymologi": "Vi kan inte hitta någon etymologi för ordet. ):"
+		},
+		{
+			"namn": "vederkvicka",
+			"betydelse": "Ge ny energi åt",
+			"exempelmening": "En liten vilopaus vederkvickte bergsklättrarna, som därefter i rask takt fortsatte mot bergets topp.",
+			"etymologi": "Ordet kommer från lågtyska via fornsvenska."
+		},
+		{
+			"namn": "hugsvala",
+			"betydelse": "Trösta",
+			"exempelmening": "Alla behöver vi hugsvalas ibland.",
+			"etymologi": "Ordet kommer från fornsvenska."
+		},
+		{
+			"namn": "vrångarsel",
+			"betydelse": "Tjurskalle",
+			"exempelmening": "Ja, du ska få glass, ditt vrångarsel.",
+			"etymologi": "Vrångarsel är ett norrländskt dialektord.",
+			"lank": "https://dagensord.github.io/om.html"
+		},
+		{
+			"namn": "begråta",
+			"betydelse": "Sörja",
+			"exempelmening": "Vi begråter vår farmor, som nyligen lämnat oss.",
+			"etymologi": "Ordet kommer från äldre nysvenska."
+		},
+		{
+			"namn": "sangvinisk",
+			"betydelse": "Gladlynt och bekymmerslös, ofta nästan naiv",
+			"exempelmening": "Den sangviniska solrosodlaren lät kunderna själva plocka solrosorna och därefter betala via Swish.",
+			"etymologi": "Ordet kommer från latin."
+		},
+		{
+			"namn": "spedition",
+			"betydelse": "Varutransport",
+			"exempelmening": "Vi ordnar spedition i hela Sverige!",
+			"etymologi": "Ordet kommer från latin, via italienska."
 		}
-		
 	]
 }
