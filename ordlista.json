@@ -51,6 +51,12 @@
 			"etymologi": "Ordet kommer från fornsvenskan."
 		},
 		{
+			"namn": "ferie",
+			"betydelse": "Lov, eller ibland mer allmänt ledighet.",
+			"exempelmening": "Under sommarferierna kommer vi att ha stängt.",
+			"etymologi": "Ordet kommer från latin."
+		},
+		{
 			"namn": "ådagalägga",
 			"betydelse": "Visa att man har en viss egenskap",
 			"exempelmening": "Chefen ådagalade ett stort tålamod när jag sa att jag ännu inte var klar med projektet.",
@@ -584,12 +590,6 @@
 			"etymologi": "Ordet är sannolikt inlånat från lågtyska."
 		},
 		{
-			"namn": "älskog",
-			"betydelse": "Kärleksakt",
-			"exempelmening": "Lite älskog behövs då och då, anser vi.",
-			"etymologi": "Ordet kommer från fornnordiska, och betyder ungefär ”lust att älska”."
-		},
-		{
 			"namn": "omsider",
 			"betydelse": "Så småningom",
 			"exempelmening": "Det kommer att ta några år tag, men omsider blir detta en lummig häck.",
@@ -674,6 +674,54 @@
 			"betydelse": "Varutransport",
 			"exempelmening": "Vi ordnar spedition i hela Sverige!",
 			"etymologi": "Ordet kommer från latin, via italienska."
+		},
+		{
+			"namn": "allmogeblå",
+			"betydelse": "Milt blå",
+			"exempelmening": "Jag vill köpa ett allmogeblått lakan.",
+			"etymologi": "Ordet kommer faktiskt från nusvenska, och är antagligen bildat till ”allmoge” eftersom det var en vanlig färg."
+		},
+		{
+			"namn": "piktur",
+			"betydelse": "Handstil",
+			"exempelmening": "När en elev övergår till att endast skriva på dator förfaller hens piktur fort.",
+			"etymologi": "Ordet kommer från latin."
+		},
+		{
+			"namn": "tredsk",
+			"betydelse": "Motsträvig",
+			"exempelmening": "Ett sådant tredskt barn har jag aldrig sett på maken till!",
+			"etymologi": "Ordet kommer från fornsvenska."
+		},
+		{
+			"namn": "impertinens",
+			"betydelse": "Näsvishet",
+			"exempelmening": "Aldrig tillförne har ungdomen visat en sådan impertinens gentemot adeln; hur vågar de fråga sådana djuplodande frågor!?",
+			"etymologi": "Ordet kommer från latin men är inlånat via franska."
+		},
+		{
+			"namn": "in spe",
+			"betydelse": "Blivande",
+			"exempelmening": "Det här är min hustru in spe!",
+			"etymologi": "Ordet är inlånat från latin."
+		},
+		{
+			"namn": "dalkjusa",
+			"betydelse": "Liten, trång dal",
+			"exempelmening": "Bäcken flyter i en vacker, blommande dalkjusa.",
+			"etymologi": "Ordet är bildat till ordet ”kjusa” med samma betydelse."
+		},
+		{
+			"namn": "förfaras",
+			"betydelse": "Förstöras eller gå till spillo",
+			"exempelmening": "Mjölken förfars av sommarhettan om den står framme för länge.",
+			"etymologi": "Ordet kommer från fornsvenska."
+		},
+		{
+			"namn": "tabelras",
+			"betydelse": "Total förstörelse",
+			"exempelmening": "Ett tabelras återstod efter kriget.",
+			"etymologi": "Ordet kommer från latinets uttryck ”tabula rasa”, som betyder ungefär ”helt utsuddad vaxskrivtavla”."
 		}
 	]
 }
