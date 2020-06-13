@@ -4,7 +4,7 @@
 			"betydelse": "Kärleksförhållande",
 			"exempelmening": "Deras liaison har lett till ett giftermål.",
 			"etymologi": "Ordet är inlånat från franskan.",
-			"uttal": "Liesång"
+			"uttal": "Liä-såhng"
 
 		},
 		{
@@ -12,7 +12,7 @@
 			"betydelse": "Möte mellan älskande",
 			"exempelmening": "Efter flera månader ifrån varandra får de äntligen ett efterlängtat rendezvous.",
 			"etymologi": "Ordet är inlånat från franskan.",
-			"uttal": "Rang-devoo"
+			"uttal": "Råhng-devoo"
 		},
 		{
 			"namn": "vederdeloman",
@@ -60,7 +60,7 @@
 			"namn": "ådagalägga",
 			"betydelse": "Visa att man har en viss egenskap",
 			"exempelmening": "Chefen ådagalade ett stort tålamod när jag sa att jag ännu inte var klar med projektet.",
-			"etymologi": "Ursprunget är okänt, även om man kan ana varför det heter som det gör."
+			"etymologi": "Ordet kommer från yngre fornsvenska."
 		},
 		{
 			"namn": "fördrag",
@@ -175,7 +175,7 @@
 		},
 		{
 			"namn": "alexanderhugg",
-			"betydelse": "Drastik åtgärd (ofta lite väl drastisk)",
+			"betydelse": "Drastisk åtgärd (ofta lite väl drastisk)",
 			"exempelmening": "Bråket löstes genom ett alexanderhugg från läraren: att skicka förövarna till rektorn.",
 			"etymologi": "Ordet är bildat till ”Alexander”, namn på en kung som löste en fråga med en lite väl drastisk åtgärd."
 		},
@@ -184,14 +184,14 @@
 			"betydelse": "Det må vara hänt",
 			"exempelmening": "Jag måste ta ett lån för att följa med på er semester, men à la bonne heure! Jag följer med.",
 			"etymologi": "Ordet är inlånat från franskan.",
-			"uttal": "A la bonör"
+			"uttal": "A la bonnöhr"
 		},
 		{
 			"namn": "savoir-faire",
 			"betydelse": "Förmåga att alltid handla rätt",
 			"exempelmening": "Alla gäster chockerades över hens uppträdande, men mitt savoir-faire räddade festen.",
 			"etymologi": "Ordet är inlånat från franskan.",
-			"uttal": "Savå-är fär"
+			"uttal": "Savå-ahr fähr"
 		},
 		{
 			"namn": "högeligen",
@@ -338,7 +338,7 @@
 			"betydelse": "Helt enkelt",
 			"exempelmening": "Det är sans façon en bättre lösning på problemet.",
 			"etymologi": "Ordet är inlånat från franska.",
-			"uttal": "Sang fassång"
+			"uttal": "Såhng fassåhng"
 		},
 		{
 			"namn": "partout",
@@ -356,7 +356,7 @@
 		{
 			"namn": "modus operandi",
 			"betydelse": "Tillvägagångssätt vid brott",
-			"exempelmening": "Att klättra in genom fösntret är tjuvligans vanliga modus operandi.",
+			"exempelmening": "Att klättra in genom fönstret är tjuvligans vanliga modus operandi.",
 			"etymologi": "Ordet är inlånat från latin."
 		},
 		{
@@ -722,6 +722,73 @@
 			"betydelse": "Total förstörelse",
 			"exempelmening": "Ett tabelras återstod efter kriget.",
 			"etymologi": "Ordet kommer från latinets uttryck ”tabula rasa”, som betyder ungefär ”helt utsuddad vaxskrivtavla”."
+		},
+		{
+			"namn": "genta",
+			"betydelse": "Upprepa",
+			"exempelmening": "Kan du genta det där tack?",
+			"etymologi": "Ordet kommer från yngre nysvenska."
+		},
+		{
+			"namn": "krepera",
+			"betydelse": "Dö",
+			"exempelmening": "Soldaten kreperade tyvärr vid frontlinjen.",
+			"etymologi": "Ordet är inlånat från tyska, men kommer ursprungligen från latin."
+		},
+		{
+			"namn": "hinsides",
+			"betydelse": "På andra sidan",
+			"exempelmening": "Gå på vägen tills ni hinsides älven ser en brygga - då ska ni vika av.",
+			"etymologi": "Ordet kommer från yngre nysvenska."
+		},
+		{
+			"namn": "torgföra",
+			"betydelse": "Uttrycka åsikt eller känsla.",
+			"exempelmening": "Efter att ha förborgat sina tvivel länge och väl torgförde han nu sina tvivel om projektet.",
+			"etymologi": "Ordet kommer från yngre nysvenska."
+		},
+		{
+			"namn": "en passant",
+			"betydelse": "I förbigående",
+			"exempelmening": "Mamma och pappa nämnde bara en passant att vi kanske skulle på semester, så jag vet varken när eller vart vi ska åka.",
+			"etymologi": "Ordet är inlånat från franska.",
+			"uttal": "Ang passang"
+		},
+		{
+			"namn": "betagen",
+			"betydelse": "Hänförd",
+			"exempelmening": "Musikläraren var betagen i elevens vackra uppträdande på konserten.<br>Musikläraren var betagen över att eleven spelade så vacker på konserten.",
+			"etymologi": "Ordet kommer från yngre nysvenska."
+		},
+		{
+			"namn": "malör",
+			"betydelse": "Missöde",
+			"exempelmening": "Jag har råkat ut för en malör och spillt mjölk på mig, så nu måste jag byta kläder.",
+			"etymologi": "Ordet kommer från franska."
+		},
+		{
+			"namn": "invektiv",
+			"betydelse": "Förolämpande ord",
+			"exempelmening": "Invektiv leder ingenvart i bråk.",
+			"etymologi": "Ordet är inlånat från franska, men kommer från början från latin."
+		},
+		{
+			"namn": "redbar",
+			"betydelse": "Moraliskt högstående",
+			"exempelmening": "Givetvis kan du låna ut dina pengar till en sådan noggrann och redbar person.",
+			"etymologi": "Ordet kommer från yngre nysvenska."
+		},
+		{
+			"namn": "obetvinglig",
+			"betydelse": "Oövervinnerlig eller oemotståndlig",
+			"exempelmening": "Naturens makter är obetvingliga.",
+			"etymologi": "Ordet kommer från yngre nysvenska."
+		},
+		{
+			"namn": "härförleden",
+			"betydelse": "För en kort tid sedan",
+			"exempelmening": "Valet avgjordes härförleden, och Socialdemokraterna vann.",
+			"etymologi": "Ordet kommer från yngre nysvenska."
 		}
 	]
 }
