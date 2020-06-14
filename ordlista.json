@@ -789,6 +789,56 @@
 			"betydelse": "För en kort tid sedan",
 			"exempelmening": "Valet avgjordes härförleden, och Socialdemokraterna vann.",
 			"etymologi": "Ordet kommer från yngre nysvenska."
+		},
+		{
+			"namn": "luguber",
+			"betydelse": "Dyster och sorglig, eller makaber",
+			"exempelmening": "Åskovädret strax efter farmoderns död gjorde stämningen ännu mer luguber.<br>Mordplatsen var en luguber syn.",
+			"etymologi": "Ordet är inlånat från franska, men kommer ursprungligen från latin."
+		},
+		{
+			"namn": "grand",
+			"betydelse": "Liten partikel",
+			"exempelmening": "Jag har fått ett litet grand av sågspån i ögat!",
+			"etymologi": "Ordet kommer från fornsvenska."
+		},
+		{
+			"namn": "sottis",
+			"betydelse": "Dumt yttrande",
+			"exempelmening": "Alla omkring skrattade åt min omedvetna sottis.",
+			"etymologi": "Ordet är inlånat från franska."
+		},
+		{
+			"namn": "eskulap",
+			"betydelse": "Läkare (skämtsamt)",
+			"exempelmening": "Jag måste inte gå till en eskulap för att få min höft undersökt; så illa är det inte.",
+			"etymologi": "Ordet kommer från ”Æsculapius”, läkekonstens gud i romersk mytologi."
+		},
+		{
+			"namn": "hekatomb",
+			"betydelse": "Ofantlig mängd",
+			"exempelmening": "Sandstormen lämnade hekatomber av sand och jord efter sig.",
+			"etymologi": "Ordet kommer från grekiskans ”hekatombe”, ett offer av hundra oxar."
+		},
+		{
+			"namn": "fysionomi",
+			"betydelse": "Utseende (oftast i nedsättande uttryck)",
+			"exempelmening": "Min chefs råttfysionomi är anskrämlig",
+			"etymologi": "Ordet är bildat efter grekiskans ord för ”natur” och ”kännare”."
+		},
+		{
+			"namn": "embonpoint",
+			"betydelse": "Mild korpulens",
+			"exempelmening": "Man ska inte skämmas för lite embonpoint.",
+			"etymologi": "Ordet är inlånat från franska.",
+			"uttal": "åhng-båhng-på-äh"
+		},
+		{
+			"namn": "antropofag",
+			"betydelse": "Kannibal",
+			"exempelmening": "Antropofager finns inte längre.",
+			"etymologi": "Ordet kommer från yngre nysvenska men är bildat till grekiska ord."
 		}
+		
 	]
 }

@@ -18,6 +18,12 @@ body {
    font-size: 8vw;
    font-style: italic;
 }
+#rubrikutt {
+   display: none;
+}
+#rubrik {
+   display: none;
+}
 
 @media only screen and (min-width: 768px) {
    body {
@@ -36,6 +42,7 @@ body {
       border-radius: 1px;
       width: 45vw;
       height: 95vh;
+      overflow: scroll;
    }
    .hoger {
       transform: translateX(45vw) translateY(-95.75vh);
