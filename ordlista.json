@@ -128,7 +128,7 @@
 			"betydelse": "Älskare eller kännare av ett visst ämne",
 			"exempelmening": "Hen är en riktig liebhaber på poesi.",
 			"etymologi": "Ordet är inlånat från tyskan.",
-			"uttal": "liphaabber"
+			"uttal": "Liphaabber"
 		},
 		{
 			"namn": "stävja",
@@ -234,7 +234,7 @@
 			"betydelse": "Högfärdig",
 			"exempelmening": "Kungafamiljen var trevlig, men som väntat lite von oben.",
 			"etymologi": "Ordet är inlånat från tyskan. Egentligen betyder det ”ovanifrån”.",
-			"uttal": "fonn åben"
+			"uttal": "Fonn åben"
 		},
 		{
 			"namn": "förgäta",
@@ -573,7 +573,7 @@
 		},
 		{
 			"namn": "damoklessvärd",
-			"betydelse": "Ständingt hotande fara",
+			"betydelse": "Ständigt hotande fara",
 			"exempelmening": "Tsunamier är ett damoklessvärd för flera japanska städer.",
 			"etymologi": "Ordet är bildat till namnet ”Damokles”."
 		},
@@ -831,13 +831,142 @@
 			"betydelse": "Mild korpulens",
 			"exempelmening": "Man ska inte skämmas för lite embonpoint.",
 			"etymologi": "Ordet är inlånat från franska.",
-			"uttal": "åhng-båhng-på-äh"
+			"uttal": "Ahng-båhng-på-ah"
 		},
 		{
 			"namn": "antropofag",
 			"betydelse": "Kannibal",
 			"exempelmening": "Antropofager finns inte längre.",
 			"etymologi": "Ordet kommer från yngre nysvenska men är bildat till grekiska ord."
+		},
+		{
+			"namn": "vadan",
+			"betydelse": "Varför eller varifrån",
+			"exempelmening": "Tåget går om en timme, så vadan denna brådska?.<br>Vadan kommer du?",
+			"etymologi": "Ordet kommer från fornsvenska."
+		},
+		{
+			"namn": "jeremiad",
+			"betydelse": "Klagovisa",
+			"exempelmening": "Min lärares jeremiader över den svenska skolans förfall börjar bli mycket störande.",
+			"etymologi": "Ordet är inlånat från franska."
+		},
+		{
+			"namn": "flängd",
+			"betydelse": "Tokig",
+			"exempelmening": "Så kan vi inte göra, är du helt flängd!?",
+			"etymologi": "Ordet är bildat till ”flänga”."
+		},
+		{
+			"namn": "sisyfosarbete",
+			"betydelse": "Jobbigt arbete som aldrig tar slut",
+			"exempelmening": "Att hålla rent i svinstian är ett riktigt sisyfosarbete; så fort grisarna kommer blir mitt slit omedelbart ogjort.",
+			"etymologi": "Ordet är konstruerat till namnet ”Sisyphos”, en grekisk sagokung som dömdes till att för alltid vältra uppför ett berg en ständigt nedrullande sten."
+		},
+		{
+			"namn": "antibarbarus",
+			"betydelse": "Lärobok som pekar ut språkfel i förebyggande syfte.",
+			"exempelmening": "För att eleverna inte skulle göra vanliga språkfel grävde läraren fram en gammal antibarbarus.",
+			"etymologi": "Ordet är konstruerat av det latinskt inlånade ordet ”anti” och grekiskt inlånade ”barbar”."
+		},
+		{
+			"namn": "kurant",
+			"betydelse": "Som används allmänt; eftertraktad och lättsåld eller frisk från lättare sjukdom/skada.",
+			"exempelmening": "Ord såsom antibarbarus är inte särskilt kuranta längre.<br>Så här i juletider är ljus kuranta.<br>Hen är allaredan kurant efter fallet.",
+			"etymologi": "Ordet är inlånat från franska."
+		},
+		{
+			"namn": "redobogen",
+			"betydelse": "Redo och villig.",
+			"exempelmening": "Jag är alltid redobogen att lära mig nya ord.",
+			"etymologi": "Ordet är bildat till fornsvenskans ”reþa” (beredskap) och ”boin” (färdig)."
+		},
+		{
+			"namn": "anakoret",
+			"betydelse": "Eremit",
+			"exempelmening": "Vi är ett folk som lever som anakoreter av religiösa skäl.",
+			"etymologi": "Ordet är bildat till grekiskans ἀναχωρεῖν, anakhorei´n (dra sig tillbaka)."
+		},
+		{
+			"namn": "abskissa",
+			"betydelse": "X-koordinat",
+			"exempelmening": "Punkten (4, 1) har abskissa 4.",
+			"etymologi": "Ordet är inlånat från latin."
+		},
+		{
+			"namn": "ordinata",
+			"betydelse": "Y-koordinat",
+			"exempelmening": "Punkten (4, 1) har ordinata 1.",
+			"etymologi": "Ordet är inlånat från latin."
+		},
+		{
+			"namn": "reminiscens",
+			"betydelse": "Svagt minne",
+			"exempelmening": "Jag har bara någon enstaka reminiscens av fjolårets fest.",
+			"etymologi": "Ordet kommer från latin."
+		},
+		{
+			"namn": "mäla",
+			"betydelse": "Tala om eller säga",
+			"exempelmening": "Jag mäler just nu för polisen vad som har hänt.<br>Helt plötsligt kom hon fram och mälde ”hej”.",
+			"etymologi": "Ordet kommer från fornsvenska."
+		},
+		{
+			"namn": "tälja",
+			"betydelse": "Räkna eller berätta (eller karva trä med kniv)",
+			"exempelmening": "Att tälja får är ett utmärkt sätt att somna.<br>Låt mig tälja dig en historia.",
+			"etymologi": "Ordet kommer från fornsvenska."
+		},
+		{
+			"namn": "ad hoc",
+			"betydelse": "Improviserat för just det här",
+			"exempelmening": "Jag hade ingen plan utan fick lösa problemen ad hoc.",
+			"etymologi": "Ordet är inlånat från latin."
+		},
+		{
+			"namn": "geschwint",
+			"betydelse": "Snabbt och enkelt",
+			"exempelmening": "Läser man läxorna ordentligt går förhöret geschwint.",
+			"uttal": "Geschvinnt",
+			"etymologi": "Ordet är inlånat från tyska."
+		},
+		{
+			"namn": "finge",
+			"betydelse": "Skulle få",
+			"exempelmening": "Finge jag barn skulle jag bli väldigt glad.",
+			"etymologi": "Ordet är en konjunktivform till ”få”, jämför med det kuranta ordet ”vore” som betyder ”skulle vara”.",
+			"lank": "https://svenska.se/tre/?sok=f%C3%A5&pz=1"
+		},
+		{
+		   "namn": "ginge",
+			"betydelse": "Skulle gå",
+			"exempelmening": "Om du ginge hädan lovar vi att du begravs i minneslunden.",
+			"etymologi": "Ordet är en konjunktivform till ”gå”, jämför med det kuranta ordet ”vore” som betyder ”skulle vara”.",
+			"lank": "https://svenska.se/tre/?sok=g%C3%A5&pz=1"
+		},
+		{
+		   "namn": "ad acta",
+			"betydelse": "Till handlingarna",
+			"exempelmening": "Efter ett långt planeringsstadium kunde vi äntligen lägga projektet ad acta.",
+			"etymologi": "Ordet är inlånat från latin."
+		},
+		{
+		   "namn": "ad acta",
+			"betydelse": "Till handlingarna",
+			"exempelmening": "Efter ett långt planeringsstadium kunde vi äntligen lägga projektet ad acta.",
+			"etymologi": "Ordet är inlånat från latin."
+		},
+		{
+		   "namn": "förtälja",
+			"betydelse": "Berätta (använt när en person berättar)",
+			"exempelmening": "När jag var liten brukade mamma och pappa städse förtälja sagor för mig.",
+			"etymologi": "Ordet kommer från fornsvenska, men är ursprungligen inlånat från lågtyska."
+		},
+		{
+		   "namn": "generalissimus",
+			"betydelse": "Ett lands högsta befälhavare, ofta använt i samband med militärdiktaturer",
+			"exempelmening": "Generalissimus Kim Il-sung styrde Nordkoreas arméer.",
+			"etymologi": "Ordet är inlånat från italienska."
 		}
 		
 	]

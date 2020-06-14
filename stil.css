@@ -3,9 +3,14 @@ body {
    background-size: cover;
    background-image: url("https://www.publicdomainpictures.net/pictures/130000/velka/parchment-page-1441804567347.jpg");
    height: 100%;
+   font-family: "Times New Roman", Times, serif;
 }
 .rubrik {
    font-weight: bold;
+   margin-left: 0.2vw;
+}
+.info {
+   margin-left: 0.2vw;
 }
 .kursiv {
    font-style: italic;
@@ -13,16 +18,25 @@ body {
 #ord {
    font-size: 10vw;
    font-weight: bold;
+   margin-left: 0.2vw;
 }
 .overrubrik {
    font-size: 8vw;
    font-style: italic;
+   margin-left: 0.2vw;
 }
 #rubrikutt {
    display: none;
 }
 #rubrik {
-   display: none;
+   display: block;
+   margin-left: 0.2vw;
+}
+.lank {
+   margin-left: 0.2vw;
+}
+#lista {
+   margin-left: 0.2vw;
 }
 
 @media only screen and (min-width: 768px) {

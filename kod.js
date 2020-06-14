@@ -35,6 +35,8 @@ function laddaOrd() {
             innehall("anvandning", exempelmening);
             innehall("etymologi", etymologi);
             
+            document.title = "Dagens ord – " + ord;
+            
             if(ordlista[index].lank !== undefined) {
                document.getElementById("lank").href = ordlista[index].lank;
             }
