@@ -23,13 +23,13 @@
 		{
 			"namn": "oförtydbar",
 			"betydelse": "Omisskännlig",
-			"exempelmening": "I hens ansikte kan man skönja en oförtydbar glädje över vinsten.",
+			"exempelmening": "I vederbörandes ansikte kan man skönja en oförtydbar glädje över vinsten.",
 			"etymologi": "Ordet är inlånat från tyska."
 		},
 		{
-			"namn": "hen",
+			"namn": "vederbörande",
 			"betydelse": "Han/hon för personer som varken är män eller kvinnor, eller för personer vars kön är okänt.",
-			"exempelmening": "Jag tror att hen där framme tappade det här papperet.",
+			"exempelmening": "Jag tror att vederbörande där framme tappade det här papperet.",
 			"etymologi": "Ordet är antagligen bildat från finskans ”hän”."
 		},
 		{
@@ -85,7 +85,7 @@
 			"betydelse": "Möte mellan älskande på tumanhand",
 			"exempelmening": "Vi lämnade turturduvorna så att de kunde få sin tête-à-tête.",
 			"etymologi": "Ordet är inlånat från franskan.",
-			"uttal": "Täta-tät"
+			"uttal": "Täta-tä´t"
 		},
 		{
 			"namn": "fåvitsk",
@@ -189,7 +189,7 @@
 		{
 			"namn": "savoir-faire",
 			"betydelse": "Förmåga att alltid handla rätt",
-			"exempelmening": "Alla gäster chockerades över hens uppträdande, men mitt savoir-faire räddade festen.",
+			"exempelmening": "Alla gäster chockerades över vederbörandes uppträdande, men mitt savoir-faire räddade festen.",
 			"etymologi": "Ordet är inlånat från franskan.",
 			"uttal": "Savå-ahr fähr"
 		},
@@ -214,7 +214,7 @@
 		{
 			"namn": "förborga",
 			"betydelse": "Dölja, ofta någonting abstrakt",
-			"exempelmening": "Hemligheten om hens giftermål är väl förborgad.",
+			"exempelmening": "Hemligheten om vederbörandes giftermål är väl förborgad.",
 			"etymologi": "Ordet är inlånat från lågtyskan."
 		},
 		{
@@ -281,7 +281,7 @@
 		{
 			"namn": "törhända",
 			"betydelse": "Kanske",
-			"exempelmening": "Törhända kommer hen bara lite sent, så vi väntar ett tag.",
+			"exempelmening": "Törhända kommer vederbörande bara lite sent, så vi väntar ett tag.",
 			"etymologi": "Ordet kommer från den fornsvenskan."
 		},
 		{
@@ -323,7 +323,7 @@
 		{
 			"namn": "elokvens",
 			"betydelse": "Vältalighet",
-			"exempelmening": "VD:ns elokvens har tagit henom till den åtråvärda position som hen just nu innehar.",
+			"exempelmening": "VD:ns elokvens har tagit vederbörandeom till den åtråvärda position som vederbörande just nu innehar.",
 			"etymologi": "Ordet är inlånat från latin."
 		},
 		{
@@ -436,7 +436,7 @@
 		{
 			"namn": "städse",
 			"betydelse": "Alltid",
-			"exempelmening": "Jag är städse sjuk, gnällde hen",
+			"exempelmening": "Jag är städse sjuk, gnällde vederbörande",
 			"etymologi": "Ordet kommer från fornsvenska, ursprungligen inlånat från lågtyska."
 		},
 		{
@@ -598,7 +598,7 @@
 		{
 			"namn": "sent omsider",
 			"betydelse": "Till sist",
-			"exempelmening": "Sent omsider förstod hen situationens allvar, men då var det allaredan för sent.",
+			"exempelmening": "Sent omsider förstod vederbörande situationens allvar, men då var det allaredan för sent.",
 			"etymologi": "Uttrycket kommer från fornnordiska.",
 			"lank": "https://svenska.se/tre/?sok=omsider&pz=1"
 		},
@@ -684,7 +684,7 @@
 		{
 			"namn": "piktur",
 			"betydelse": "Handstil",
-			"exempelmening": "När en elev övergår till att endast skriva på dator förfaller hens piktur fort.",
+			"exempelmening": "När en elev övergår till att endast skriva på dator förfaller vederbörandes piktur fort.",
 			"etymologi": "Ordet kommer från latin."
 		},
 		{
@@ -872,7 +872,7 @@
 		{
 			"namn": "kurant",
 			"betydelse": "Som används allmänt; eftertraktad och lättsåld eller frisk från lättare sjukdom/skada.",
-			"exempelmening": "Ord såsom antibarbarus är inte särskilt kuranta längre.<br>Så här i juletider är ljus kuranta.<br>Hen är allaredan kurant efter fallet.",
+			"exempelmening": "Ord såsom antibarbarus är inte särskilt kuranta längre.<br>Så här i juletider är ljus kuranta.<br>Vederbörande är allaredan kurant efter fallet.",
 			"etymologi": "Ordet är inlånat från franska."
 		},
 		{
@@ -938,36 +938,48 @@
 			"lank": "https://svenska.se/tre/?sok=f%C3%A5&pz=1"
 		},
 		{
-		   "namn": "ginge",
+			"namn": "ginge",
 			"betydelse": "Skulle gå",
 			"exempelmening": "Om du ginge hädan lovar vi att du begravs i minneslunden.",
 			"etymologi": "Ordet är en konjunktivform till ”gå”, jämför med det kuranta ordet ”vore” som betyder ”skulle vara”.",
 			"lank": "https://svenska.se/tre/?sok=g%C3%A5&pz=1"
 		},
 		{
-		   "namn": "ad acta",
+			"namn": "ad acta",
 			"betydelse": "Till handlingarna",
 			"exempelmening": "Efter ett långt planeringsstadium kunde vi äntligen lägga projektet ad acta.",
 			"etymologi": "Ordet är inlånat från latin."
 		},
 		{
-		   "namn": "ad acta",
-			"betydelse": "Till handlingarna",
-			"exempelmening": "Efter ett långt planeringsstadium kunde vi äntligen lägga projektet ad acta.",
-			"etymologi": "Ordet är inlånat från latin."
-		},
-		{
-		   "namn": "förtälja",
-			"betydelse": "Berätta (använt när en person berättar)",
+			"namn": "förtälja",
+			"betydelse": "Berätta",
 			"exempelmening": "När jag var liten brukade mamma och pappa städse förtälja sagor för mig.",
 			"etymologi": "Ordet kommer från fornsvenska, men är ursprungligen inlånat från lågtyska."
 		},
 		{
-		   "namn": "generalissimus",
+			"namn": "generalissimus",
 			"betydelse": "Ett lands högsta befälhavare, ofta använt i samband med militärdiktaturer",
 			"exempelmening": "Generalissimus Kim Il-sung styrde Nordkoreas arméer.",
 			"etymologi": "Ordet är inlånat från italienska."
+		},
+		{
+			"namn": "oomkullrunkelig",
+			"betydelse": "Obestridlig",
+			"exempelmening": "Att använda mindre kuranta ord är oomkullrunkeligen en källa till stort nöje.",
+			"etymologi": "Ordet bildades av verbet runka (i betydelsen 'långsamt skaka', NB), vilket har sin proveniens i fornsvenskan."
+		},
+		{
+			"namn": "adiafora",
+			"betydelse": "Oväsentliga ting",
+			"exempelmening": "Vissa hemsidor är fyllda med adiafora, men inte Dagens ord.",
+			"etymologi": "Ordet kommer från den klassiska grekiskans adiaphoros ’likgiltig’."
+		},
+		{
+			"namn": "amsaga",
+			"betydelse": "Osann historia",
+			"exempelmening": "Vissa tror på amsagorna om att Einstein fick undermåliga betyg som barn.",
+			"etymologi": "Ordet bildades till verbet amma, jämför med tyskans motsvarighet ammenmärchen. Tanken var att amsagor var fantastiskt enkla och påhittade ting som berättades i barnkamrar bland ammande kvinnor."
 		}
-		
+
 	]
 }
