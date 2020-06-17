@@ -2,7 +2,7 @@ body {
    background-repeat: no-repeat;
    background-size: cover;
    background-image: url("https://www.publicdomainpictures.net/pictures/130000/velka/parchment-page-1441804567347.jpg");
-   height: 100%;
+   height: 100vh;
    font-family: "Times New Roman", Times, serif;
 }
 .rubrik {
