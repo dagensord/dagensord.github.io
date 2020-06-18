@@ -2,8 +2,11 @@ body {
    background-repeat: no-repeat;
    background-size: cover;
    background-image: url("https://www.publicdomainpictures.net/pictures/130000/velka/parchment-page-1441804567347.jpg");
-   height: 100vh;
+   height: 100%;
    font-family: "Times New Roman", Times, serif;
+}
+html {
+   height: 100%;
 }
 .rubrik {
    font-weight: bold;
@@ -58,12 +61,16 @@ body {
       height: 95vh;
       overflow: scroll;
    }
+   .hoger_behallare {
+      transform: translateY(-95.75vh);
+   }
    .hoger {
-      transform: translateX(45vw) translateY(-95.75vh);
+      transform: translateX(45vw);
    }
    .bok {
       margin: auto;
       width: 90vw;
+      height: 95vh;
    }
    #ord {
       font-size: 5vw;
