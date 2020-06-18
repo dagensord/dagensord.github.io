@@ -59,7 +59,7 @@ html {
       border-radius: 1px;
       width: 45vw;
       height: 95vh;
-      overflow: scroll;
+      overflow: auto;
    }
    .hoger_behallare {
       transform: translateY(-95.75vh);
