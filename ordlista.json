@@ -985,7 +985,81 @@
 			"betydelse": "(Den) som det är fråga om",
 			"exempelmening": "Vill någon träffa oss kan vederbörande komma hit nu.<br>Vi måste prata med vederbörande lärare om mobbningen.",
 			"etymologi": "Ordet kommer från äldre nysvenska."
+		},
+		{
+			"namn": "nom de guerre",
+			"betydelse": "Täcknamn eller pseudonym",
+			"exempelmening": "Axel Wallengren skrev många humoristiska skrifter under sitt nom de guerre Falstaff fakir.",
+			"etymologi": "Ordet är inlånat från franska."
+		},
+		{
+			"namn": "nom de guerre",
+			"betydelse": "Täcknamn eller pseudonym",
+			"exempelmening": "Axel Wallengren skrev många humoristiska skrifter under sitt nom de guerre Falstaff fakir.",
+			"etymologi": "Ordet är inlånat från franska.",
+			"uttal": "Nåhng-du-gähr"
+		},
+      {
+			"namn": "löga",
+			"betydelse": "Tvätta eller bada",
+			"exempelmening": "Det tar tid att löga kläder för hand, nu när tvättmaskinen är sönder.<br>Mamma sa att jag måste löga mig.",
+			"etymologi": "Ordet kommer från fornsvenska."
+		},
+		{
+			"namn": "raison d’être",
+			"betydelse": "Existensberättigande",
+			"exempelmening": "Engelska skolans enda raison d’être är disciplinen.",
+			"etymologi": "Ordet är inlånat från franska.",
+			"uttal": "Räsåhng dät-r"
+		},
+		{
+			"namn": "klang- och jubeltid",
+			"betydelse": "Glädjetid",
+			"exempelmening": "Jag minns klang- och jubeltiden efter andra världskrigets slut, berättar mormor.",
+			"etymologi": "Ordet är belagt i svenskan sedan 1920-talet."
+		},
+		{
+			"namn": "varde",
+			"betydelse": "Låt det bli",
+			"exempelmening": "Och Gud sade: ”Varde ljus”; och det vart ljus. (Ur 1917 års kyrkobibel, Första Moseboken 1:3)",
+			"etymologi": "Ordet är en presens-konjunktivform (som uttrycker en önskning) till ”varda”, ett gammalt ord som betyder ”bli”. Jämför uttryck som ”det vete fåglarna”, som betyder ungefär ”det må fåglarna veta”."
+		},
+		{
+			"namn": "chaussé",
+			"betydelse": "Bred landsväg",
+			"exempelmening": "Vi är på chaussén på väg mot Tavastehus.",
+			"etymologi": "Ordet är inlånat från franska.",
+			"uttal": "Schåssé"
+		},
+		{
+			"namn": "fåglalåt",
+			"betydelse": "Fågelkvitter eller fågelsång",
+			"exempelmening": "Lyss till fåglalåten och njut!",
+			"etymologi": "Ordet kommer från äldre nysvenska."
+		},
+		{
+			"namn": "nabo",
+			"betydelse": "Granne",
+			"exempelmening": "Jag hälsar på mina nabor innan jag går in.",
+			"etymologi": "Ordet kommer från fornsvenska. Det är besläktat med engelskans ”neighbour” och tyskans ”Nachbar”."
+		},
+		{
+			"namn": "sentens",
+			"betydelse": "Visdomsord",
+			"exempelmening": "Jag lever efter sentensen ”Det du vill att andra ska göra för dig, ska du göra för dem.”",
+			"etymologi": "Ordet kommer från latin."
+		},
+		{
+			"namn": "vitter",
+			"betydelse": "Som gillar och är förtrogen med skönlitteratur.",
+			"exempelmening": "I bokcirkeln sitter bara vittra personer.",
+			"etymologi": "Ordet kommer från fornsvenska."
+		},
+		{
+			"namn": "antvarda",
+			"betydelse": "Överlämna",
+			"exempelmening": "Nycklarna till hyresgästerna antvardas vid ankomst.",
+			"etymologi": "Ordet kommer från fornsvenska men bildat efter tyskt mönster."
 		}
-
 	]
 }
