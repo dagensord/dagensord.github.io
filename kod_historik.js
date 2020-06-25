@@ -1,10 +1,5 @@
-let ord = "";
-let betydelse = "";
-let exempelmening = "";
-let etymologi = "";
-let ordlista;
 laddaOrd();
-
+let ordlista;
 function laddaOrd() {
    let xhttp = new XMLHttpRequest();
    xhttp.onerror = function() {
@@ -16,11 +11,31 @@ function laddaOrd() {
             var nu = new Date().getTime();
             var startDag = new Date("3 jun 2020").getTime();
             var index = (Math.floor((nu / 1000 / 60 / 60 / 24) - (startDag / 1000 / 60 / 60 / 24)));
+            let listInnehall = "";
             ordlista = JSON.parse(xhttp.responseText).ord;
             while(index >= ordlista.length) {
 				   index -= ordlista.length;
 				   console.log(index);
 			   }
+			   for(let ind = 0; ind < index + 1; ind++) {
+			      listInnehall = listInnehall + "<div class='ordlank' id='ord" + ind + "'><output class='fet'>" + ordlista[ind].namn.charAt(0).toUpperCase() + ordlista[ind].namn.substring(1) + "</output> <output class='kursiv dolj'>" + ordlista[ind].betydelse.substring(0, 50) + "</output></div>";
+			   }
+			   listInnehall = listInnehall.replace(/<script>/i, "VARNING");
+			   innehall("lista", listInnehall);
+			   ordNummer(index, false);
+			   
+			   for(let ind = 0; ind < index + 1; ind++) {
+			      document.getElementById("ord" + ind).addEventListener("click", function inkapsling() { ordNummer(ind, true); });
+			   }
+         }
+      }
+   };	
+   xhttp.open("GET", "https://raw.githubusercontent.com/dagensord/dagensord.github.io/master/ordlista.json", true);
+   xhttp.send();
+}
+
+function ordNummer(index, rullning) {
+
 			   ord = ordlista[index].namn.replace(/<script>/i, "VARNING");
 			   betydelse = ordlista[index].betydelse.replace(/<script>/i, "VARNING");
 		   	exempelmening = ordlista[index].exempelmening.replace(/<script>/i, "VARNING");
@@ -35,8 +50,6 @@ function laddaOrd() {
             innehall("anvandning", exempelmening);
             innehall("etymologi", etymologi);
             
-            document.title = "Dagens ord – " + ord;
-            
             if(ordlista[index].lank !== undefined) {
                document.getElementById("lank").href = ordlista[index].lank;
             }
@@ -50,6 +63,10 @@ function laddaOrd() {
                document.getElementById("rubrikutt").innerHTML = "Hur uttalar man <output class='kursiv'>" + ord + "</output>?";
                document.getElementById("uttal").innerHTML = ordlista[index].uttal;
             }
+            else {
+               document.getElementById("rubrikutt").style.display = "none";
+               document.getElementById("uttal").style.display = "none";
+            }
             
             if(ordlista[index].extra !== undefined) {
                for(let ind = 0; ind > extra.length; ind++) {
@@ -61,25 +78,18 @@ function laddaOrd() {
                   }
                }
             }
+            var startDag = new Date("3 jun 2020").getTime();
+            var dennaDag = new Date(startDag + (index * 1000 * 60 * 60 * 24));
+            let vecka = ["söndag", "måndag", "tisdag", "onsdag", "torsdag", "fredag", "lördag"];
+            let manad = ["januari", "februari", "mars", "april", "maj", "juni", "juli", "augusti", "september", "oktober", "november", "december"];
             
-         }
-         else  {
-            innehall("ord", "Fel");
-            innehall("rubrikbet", "Ajdå!");
-            innehall("betydelse", "Ett fel uppstod när orden skulle läsas in. Försök att läsa in sidan igen. Om felet kvarstår kan du behöva kontakta sidans ägare.");
-            innehall("rubrikety", "");
-         
-            innehall("rubrikanv", "");
-            innehall("anvandning", "");
-            innehall("etymologi", "");
-            innehall("lank", "")
-         }
-      }
-   };
-   xhttp.open("GET", "https://raw.githubusercontent.com/dagensord/dagensord.github.io/master/ordlista.json", true);
-   xhttp.send();
-}
-
+            innehall("nar", "Dagens ord " + vecka[dennaDag.getDay()] + "en den " + dennaDag.getDate() + " " + manad[dennaDag.getMonth()]);
+            
+            if(window.innerWidth <= 700 && rullning) {
+               window.scrollTo(0, document.getElementsByClassName("bok")[0].offsetHeight);
+            }
+   }
+            
 
 function innehall(komponent, innehall) {
    document.getElementById(komponent).innerHTML = innehall;

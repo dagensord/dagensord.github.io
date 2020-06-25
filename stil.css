@@ -7,6 +7,26 @@ body {
 .rubrik {
    font-weight: bold;
    margin-left: 0.2vw;
+   
+}
+.fet {
+   font-weight: bold;
+   cursor: pointer;
+}
+.dolj {
+   overflow: hidden;
+   cursor: pointer;
+}
+.rulla {
+   overflow: auto;
+}
+.ordlank {
+   border-style: solid;
+   border-radius: 5px;
+   border-width: 1px;
+   margin-bottom: 1vh;
+   margin-left: 0.2vw;
+   width: 98%;
 }
 .info {
    margin-left: 0.2vw;
@@ -14,17 +34,33 @@ body {
 .kursiv {
    font-style: italic;
 }
-#ord {
+#ord, .rubrik_liten {
    font-size: 10vw;
    font-weight: bold;
    margin-left: 0.2vw;
+   margin-top: 0;
+   margin-bottom: 0;
+}
+.underrubrik_liten {
+   font-size: 6vw;
+   font-style: italic;
+   margin-left: 0.2vw;
+   font-weight: normal;
+   margin-top: 0;
+   margin-bottom: 0;
 }
 .overrubrik {
    font-size: 8vw;
    font-style: italic;
    margin-left: 0.2vw;
+   font-weight: normal;
+   margin-top: 0;
+   margin-bottom: 0;
 }
 #rubrikutt {
+   display: none;
+}
+#uttal {
    display: none;
 }
 #rubrik {
@@ -41,9 +77,13 @@ body {
 @media only screen and (min-width: 700px) {
    body {
       background-size: 25vw 50vh;
+      overflow: hidden;
       height: 100%;
       background-repeat: repeat;
       background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRtOiYGYBAHYVfyZgW9nb00XOffjkHIR2uu7E2B_3iZy5D9VG6w&usqp=CAU");
+   }
+   .vanster {
+      z-index: 1;
    }
    .sida {
       background-image: url("https://www.publicdomainpictures.net/pictures/130000/velka/parchment-page-1441804567347.jpg");
@@ -58,17 +98,17 @@ body {
       overflow: auto;
    }
    .hoger_behallare {
-      transform: translateY(-95.75vh);
+      transform: translateY(-95.75vh) translateX(45vw);
+      z-index: 0;
    }
    .hoger {
-      transform: translateX(45vw);
    }
    .bok {
       margin: auto;
       width: 90vw;
       height: 95vh;
    }
-   #ord {
+   #ord, .rubrik_liten {
       font-size: 5vw;
       font-weight: bold;
    }
@@ -79,4 +119,8 @@ body {
    .utfyllnad {
       height: 35%;
    }
+   .underrubrik_liten {
+      font-size: 3vw;
+   }
+   
 }
