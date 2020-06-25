@@ -133,7 +133,7 @@
 		{
 			"namn": "stävja",
 			"betydelse": "Förhindra",
-			"exempelmening": "Att stävja drogmissbruk bland tonåringar är viktigt.",
+			"exempelmening": "Att stävja drogmissbruk är viktigt även för unga barn.",
 			"etymologi": "Ordet har antagligen kommit till svenska från isländska, via norska."
 		},
 		{
@@ -594,7 +594,30 @@
 			"betydelse": "Till sist",
 			"exempelmening": "Sent omsider förstod hen situationens allvar, men då var det allaredan för sent.",
 			"etymologi": "Uttrycket kommer från fornnordiska.",
-			"lank": "https://svenska.se/tre/?sok=omsider&pz=1"
+			"lank": "https://svenska.se/tre/?sok=omsider&pz=1",
+			"extra":
+			[
+			   {
+			      "atgard": "innehall",
+			      "id": "rubrikbet",
+			      "innehall": "Vad betyder uttrycket <output class='kursiv'>sent omsider</output>?"
+			   },
+			   {
+			      "atgard": "innehall",
+			      "id": "rubrikanv",
+			      "innehall": "Hur skulle man kunna använda uttrycket <output class='kursiv'>sent omsider</output>?"
+			   },
+			   {
+			      "atgard": "innehall",
+			      "id": "rubrikety",
+			      "innehall": "Varifrån kommer uttrycket <output class='kursiv'>sent omsider</output>?"
+			   },
+			   {
+			      "atgard": "innehall",
+			      "id": "lank",
+			      "innehall": "Läs mer om uttrycket"
+			   }
+			]
 		},
 		{
 			"namn": "purpur",
@@ -606,12 +629,6 @@
 			"namn": "gredelin",
 			"betydelse": "(Gräll) lila",
 			"exempelmening": "Jag gillar din gredelina tröja.",
-			"etymologi": "Ordet kommer från franska."
-		},
-		{
-			"namn": "violett",
-			"betydelse": "(Nedtonad) lila, åt det blå hållet",
-			"exempelmening": "Violer har violetta blommor.",
 			"etymologi": "Ordet kommer från franska."
 		},
 		{
@@ -650,6 +667,12 @@
 			"exempelmening": "Ja, du ska få glass, ditt vrångarsel.",
 			"etymologi": "Vrångarsel är ett norrländskt dialektord.",
 			"lank": "https://dagensord.github.io/om.html"
+		},
+		{
+			"namn": "violett",
+			"betydelse": "(Nedtonad) lila, åt det blå hållet",
+			"exempelmening": "Violer har violetta blommor.",
+			"etymologi": "Ordet kommer från franska."
 		},
 		{
 			"namn": "begråta",
@@ -696,7 +719,7 @@
 		{
 			"namn": "in spe",
 			"betydelse": "Blivande",
-			"exempelmening": "Det här är min hustru in spe!",
+			"exempelmening": "Hon är min hustru in spe!",
 			"etymologi": "Ordet är inlånat från latin."
 		},
 		{
@@ -836,8 +859,16 @@
 		{
 			"namn": "vadan",
 			"betydelse": "Varför eller varifrån",
-			"exempelmening": "Tåget går om en timme, så vadan denna brådska?.<br>Vadan kommer du?",
-			"etymologi": "Ordet kommer från fornsvenska."
+			"exempelmening": "Tåget går om en timme, så vadan denna brådska?<br>Vadan rullade den här bollen hit?",
+			"etymologi": "Ordet kommer från fornsvenska.",
+			"extra": 
+			[
+			    {
+			       "atgard": "innehall",
+			       "id": "rubrikety",
+			       "innehall": "Vadan kommer ordet <output class='kursiv'>vadan</output>?"
+			    }  
+			]
 		},
 		{
 			"namn": "jeremiad",
@@ -992,7 +1023,14 @@
 			"exempelmening": "Axel Wallengren skrev många humoristiska skrifter under sitt nom de guerre Falstaff fakir.",
 			"etymologi": "Ordet är inlånat från franska."
 		},
-      		{
+		{
+			"namn": "nom de guerre",
+			"betydelse": "Täcknamn eller pseudonym",
+			"exempelmening": "Axel Wallengren skrev många humoristiska skrifter under sitt nom de guerre Falstaff fakir.",
+			"etymologi": "Ordet är inlånat från franska.",
+			"uttal": "Nåhng-du-gähr"
+		},
+      {
 			"namn": "löga",
 			"betydelse": "Tvätta eller bada",
 			"exempelmening": "Det tar tid att löga kläder för hand, nu när tvättmaskinen är sönder.<br>Mamma sa att jag måste löga mig.",
