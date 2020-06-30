@@ -904,7 +904,7 @@
 			"namn": "undertecknad",
 			"betydelse": "Jag (skämtsamt)",
 			"exempelmening": "Undertecknad slår gärna följe med er.",
-			"etymologi": "Ordet kommer från äldre nysvenska."
+			"etymologi": "Ordet kommer från yngre nysvenska."
 		},
 		{
 			"namn": "redobogen",
@@ -1021,12 +1021,6 @@
 			"namn": "nom de guerre",
 			"betydelse": "Täcknamn eller pseudonym",
 			"exempelmening": "Axel Wallengren skrev många humoristiska skrifter under sitt nom de guerre Falstaff fakir.",
-			"etymologi": "Ordet är inlånat från franska."
-		},
-		{
-			"namn": "nom de guerre",
-			"betydelse": "Täcknamn eller pseudonym",
-			"exempelmening": "Axel Wallengren skrev många humoristiska skrifter under sitt nom de guerre Falstaff fakir.",
 			"etymologi": "Ordet är inlånat från franska.",
 			"uttal": "Nåhng-du-gähr"
 		},
@@ -1091,6 +1085,84 @@
 			"betydelse": "Överlämna",
 			"exempelmening": "Nycklarna till hyresgästerna antvardas vid ankomst.",
 			"etymologi": "Ordet kommer från fornsvenska men bildat efter tyskt mönster."
+		},
+		{
+			"namn": "barfotalasse",
+			"betydelse": "Fattig pojke eller man",
+			"exempelmening": "En barfotalasse som jag ger aldrig upp.",
+			"etymologi": "Ordet är bildat till namnet Lars."
+		},
+		{
+			"namn": "interlokutör",
+			"betydelse": "Samtalspartner",
+			"exempelmening": "Jag försöker alltid upprätthålla en vänskaplig ton med interlokutören.",
+			"etymologi": "Ordet är inlånat från franska."
+		},
+		{
+			"namn": "interlokutör",
+			"betydelse": "Samtalspartner",
+			"exempelmening": "Jag försöker alltid upprätthålla en vänskaplig ton med interlokutören.",
+			"etymologi": "Ordet är inlånat från franska."
+		},
+		{
+			"namn": "ruelse",
+			"betydelse": "Mycket djup ånger",
+			"exempelmening": "Efter snatteriet plågades jag en djup ruelse, och till slut lämnade jag tillbaka stöldgodset.",
+			"etymologi": "Ordet är inlånat från lågtyska."
+		},
+		{
+			"namn": "osäll",
+			"betydelse": "Olycklig",
+			"exempelmening": "Allt sedan hans mor dog har han varit väldigt osäll.",
+			"etymologi": "Ordet är ett fornsvenskt arvord."
+		},
+		{
+			"namn": "elyseisk",
+			"betydelse": "Himmelsk",
+			"exempelmening": "Det elyseiska orörda landskapet skänker envar som går in en djup glädje.",
+			"etymologi": "Ordet är inlånat från grekiska."
+		},
+		{
+			"namn": "gepäck",
+			"betydelse": "Bagage eller packning",
+			"exempelmening": "Det är jobbigt att lämpa upp sitt gepäck på tågets bagagehylla.",
+			"etymologi": "Ordet är inlånat från tyska."
+		},
+		{
+			"namn": "åtra",
+			"betydelse": "Ångra eller ändra",
+			"exempelmening": "Jag har åtrat mig och följer med på resan.",
+			"etymologi": "Ordet är bildat till ”åter”."
+		},
+		{
+			"namn": "medikus",
+			"betydelse": "Läkare",
+			"exempelmening": "Nog får du gå till en medikus med det där såret.",
+			"etymologi": "Ordet är inlånat från latin."
+		},
+		{
+			"namn": "mystär",
+			"betydelse": "Mysterium, om saker som inte går att förstå.",
+			"exempelmening": "Kärlekens mystärer gör man måhända bäst i att inte forska i.",
+			"etymologi": "Ordet är inlånat från franska."
+		},
+		{
+			"namn": "ävlas",
+			"betydelse": "Ihärdigt sträva",
+			"exempelmening": "Vi alla ävlas efter närhet till andra människor.",
+			"etymologi": "Ordet är ett fornsvenskt arvord."
+		},
+		{
+			"namn": "ogulden",
+			"betydelse": "Ej betald (om skuld)",
+			"exempelmening": "Huslånet är alltjämt oguldet, men när vi säljer det så slipper vi skulden.",
+			"etymologi": "Ordet är ett fornsvenkt arvord som är bildat till ”gälda”."
+		},
+		{
+			"namn": "visman",
+			"betydelse": "Trollkarl",
+			"exempelmening": "Vismän var minst lika ansedda som vetenskapsmän på medeltiden.",
+			"etymologi": "Ordet är ett äldre nysvenskt arvord."
 		}
 	]
 }
