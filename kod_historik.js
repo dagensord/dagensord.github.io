@@ -14,7 +14,7 @@ function laddaOrd() {
             let listInnehall = "";
             ordlista = JSON.parse(xhttp.responseText).ord;
 	    let antalOrd = ordlista.length > 50 ? 50 : ordlista.length;
-            while(index >= antalOrd) {
+            while(index >= ordlista.length) {
 				   index -= ordlista.length;
 				   console.log(index);
 			   }
