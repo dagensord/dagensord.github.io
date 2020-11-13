@@ -13,7 +13,8 @@ function laddaOrd() {
             var index = (Math.floor((nu / 1000 / 60 / 60 / 24) - (startDag / 1000 / 60 / 60 / 24)));
             let listInnehall = "";
             ordlista = JSON.parse(xhttp.responseText).ord;
-            while(index >= ordlista.length) {
+	    let antalOrd = ordlista.length > 50 ? 50 : ordlista.length;
+            while(index >= antalOrd) {
 				   index -= ordlista.length;
 				   console.log(index);
 			   }
