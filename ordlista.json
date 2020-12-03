@@ -595,28 +595,26 @@
 			"exempelmening": "Sent omsider förstod hen situationens allvar, men då var det redan för sent.",
 			"etymologi": "Uttrycket kommer från fornnordiska.",
 			"lank": "https://svenska.se/tre/?sok=omsider&pz=1",
-			"extra":
-			[
-			   {
-			      "atgard": "innehall",
-			      "id": "rubrikbet",
-			      "innehall": "Vad betyder uttrycket <output class='kursiv'>sent omsider</output>?"
-			   },
-			   {
-			      "atgard": "innehall",
-			      "id": "rubrikanv",
-			      "innehall": "Hur skulle man kunna använda uttrycket <output class='kursiv'>sent omsider</output>?"
-			   },
-			   {
-			      "atgard": "innehall",
-			      "id": "rubrikety",
-			      "innehall": "Varifrån kommer uttrycket <output class='kursiv'>sent omsider</output>?"
-			   },
-			   {
-			      "atgard": "innehall",
-			      "id": "lank",
-			      "innehall": "Läs mer om uttrycket"
-			   }
+			"extra": [{
+					"atgard": "innehall",
+					"id": "rubrikbet",
+					"innehall": "Vad betyder uttrycket <output class='kursiv'>sent omsider</output>?"
+				},
+				{
+					"atgard": "innehall",
+					"id": "rubrikanv",
+					"innehall": "Hur skulle man kunna använda uttrycket <output class='kursiv'>sent omsider</output>?"
+				},
+				{
+					"atgard": "innehall",
+					"id": "rubrikety",
+					"innehall": "Varifrån kommer uttrycket <output class='kursiv'>sent omsider</output>?"
+				},
+				{
+					"atgard": "innehall",
+					"id": "lank",
+					"innehall": "Läs mer om uttrycket"
+				}
 			]
 		},
 		{
@@ -861,14 +859,11 @@
 			"betydelse": "Varför eller varifrån",
 			"exempelmening": "Tåget går om en timme, så vadan denna brådska?<br>Vadan rullade den här bollen hit?",
 			"etymologi": "Ordet kommer från fornsvenska.",
-			"extra": 
-			[
-			    {
-			       "atgard": "innehall",
-			       "id": "rubrikety",
-			       "innehall": "Vadan kommer ordet <output class='kursiv'>vadan</output>?"
-			    }  
-			]
+			"extra": [{
+				"atgard": "innehall",
+				"id": "rubrikety",
+				"innehall": "Vadan kommer ordet <output class='kursiv'>vadan</output>?"
+			}]
 		},
 		{
 			"namn": "jeremiad",
@@ -1024,7 +1019,7 @@
 			"etymologi": "Ordet är inlånat från franska.",
 			"uttal": "Nåhng-du-gähr"
 		},
-      {
+		{
 			"namn": "löga",
 			"betydelse": "Tvätta eller bada",
 			"exempelmening": "Det tar tid att löga kläder för hand, nu när tvättmaskinen är sönder.<br>Mamma sa att jag måste löga mig.",
@@ -1157,6 +1152,78 @@
 			"betydelse": "Trollkarl",
 			"exempelmening": "Vismän var minst lika ansedda som vetenskapsmän på medeltiden.",
 			"etymologi": "Ordet är ett äldre nysvenskt arvord."
+		},
+		{
+			"namn": "sinkabirum",
+			"betydelse": "Polisarrest",
+			"exempelmening": "Har du hamnat i sinkabirum!?",
+			"etymologi": "Ursprung okänt."
+		},
+		{
+			"namn": "övlig",
+			"betydelse": "Sedvanlig",
+			"exempelmening": "Den övliga dansen kan vi inte vara utan på festen.",
+			"etymologi": "Ordet är ett tyskt översättningslån."
+		},
+		{
+			"namn": "abstrus",
+			"betydelse": "Dunkelt uttryckt",
+			"exempelmening": "Jag kunde inte hänga med i ditt något abstrusa argument.",
+			"etymologi": "Ordet är ett latinskt lånord."
+		},
+		{
+			"namn": "gårdvar",
+			"betydelse": "Vakthund till gård",
+			"exempelmening": "På nätterna vaktas bondgården av vår trogne gårdvar Karo.",
+			"etymologi": "Ordet är ett fornsvenskt arvord, bildat till ”gård” och ”vari”, väktare."
+		},
+		{
+			"namn": "efemär",
+			"betydelse": "Mycket kortlivad och flyktig",
+			"exempelmening": "Berömmelse är efemärt.",
+			"etymologi": "Ordet är ett lån från grekiska."
+		},
+		{
+			"namn": "cesur",
+			"betydelse": "Kort paus i versrad eller taktvila i musik",
+			"exempelmening": "Illiaden innehåller många cesurer.",
+			"etymologi": "Ordet är ett lån från latin."
+		},
+		{
+			"namn": "överloppsgärning",
+			"betydelse": "Onödig handling",
+			"exempelmening": "Att skriva alla dessa exempelmeningar verkar vara en överloppshandling eftersom ingen läser dem.",
+			"etymologi": "Ordet är ett latinskt översättningslån."
+		},
+		{
+			"namn": "förfäas",
+			"betydelse": "Bli dummare",
+			"exempelmening": "Sitt nu inte och förfäas genom att läsa Dagens ord!",
+			"etymologi": "Ordet är ett nysvenskt arvord."
+		},
+		{
+			"namn": "collier",
+			"betydelse": "Halsband",
+			"exempelmening": "Vilken fin collier du har!",
+			"etymologi": "Ordet är ett franskt lånord."
+		},
+		{
+			"namn": "hurusom",
+			"betydelse": "Hur eller att (som bisatsinledare, inte som infinitivmarkering)",
+			"exempelmening": "Hurusom ska man gå till väga för att lyfta denna sten?<br>Jag har sagt hurusom han inte får avslöja det för någon.<br>FELAKTIG ANVÄNDNING: Jag har svårt hurusom sova.",
+			"etymologi": "Ordet är ett arvord från yngre fornsvenska."
+		},
+		{
+			"namn": "analogislut",
+			"betydelse": "Slutsats som grundar sig på ett liknande fall.",
+			"exempelmening": "Tvisten avgjordes genom analogislut.",
+			"etymologi": "Ordet är ett arvord från yngre nysvenska."
+		},
+		{
+			"namn": "korpus",
+			"betydelse": "Stor samling texter som används för språkforskning",
+			"exempelmening": "Gör en korpussökning för att se hur vanligt ordet ”analogislut” är.",
+			"etymologi": "Ordet är ett latinskt lånord. På latin betyder det ”kropp”."
 		}
 	]
 }
