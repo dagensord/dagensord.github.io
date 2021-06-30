@@ -14,7 +14,7 @@ function laddaOrd() {
       if(this.readyState == 4) {
          if(this.status == 200) {
             var nu = new Date().getTime();
-            var startDag = new Date("3 jun 2020").getTime();
+            var startDag = new Date("30 jun 2021").getTime();
             var index = (Math.floor((nu / 1000 / 60 / 60 / 24) - (startDag / 1000 / 60 / 60 / 24)));
             ordlista = JSON.parse(xhttp.responseText).ord;
             while(index >= ordlista.length) {
