@@ -79,7 +79,7 @@ function ordNummer(index, rullning) {
                   }
                }
             }
-            var startDag = new Date("30 jun 2021").getTime();
+            var startDag = new Date("27 jul 2022").getTime();
             var dennaDag = new Date(startDag + (index * 1000 * 60 * 60 * 24));
             let vecka = ["söndag", "måndag", "tisdag", "onsdag", "torsdag", "fredag", "lördag"];
             let manad = ["januari", "februari", "mars", "april", "maj", "juni", "juli", "augusti", "september", "oktober", "november", "december"];
